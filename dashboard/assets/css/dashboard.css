@@ -1,0 +1,17 @@
+
+.swal-button {
+    background-color: #fe5461 !important;
+}
+.swal-button:hover{
+    background-color: #fe2525 !important;
+}
+.swal-button--cancel{
+    background-color: #efefef!important;
+}
+.swal-button--cancel:hover{
+    background-color: #e8e5ef!important;
+}
+
+.sidebar .sidebar-inner{
+    margin-top: 0px!important;
+}

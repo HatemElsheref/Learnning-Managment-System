@@ -1,0 +1,25 @@
+.card-table-border-none tbody td{
+    padding: unset;
+}
+.permission-checkbox{
+    display: inline-block;
+}
+.model-permission-dark{
+    color: #ffffff;
+    background-color: #8a909d;
+    border-color: #2f3c51;
+}
+
+.permission-table >tbody>tr td:first-child{
+    /* color: #ffffff; */
+    /* background-color: #8a909d; */
+    /* border-color: #e5e9f2; */
+}
+.first-main-color{
+    background-color: #4C84FF;
+    color: #fff;
+}
+.second-main-color{
+    background-color: #212a39;
+
+}
